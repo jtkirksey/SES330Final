@@ -1,2 +1,2 @@
 # SES330Final
-Code for SES 330 final project
+SES 330 solar sensor code
